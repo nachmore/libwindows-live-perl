@@ -1,0 +1,6 @@
+Revision history for Perl extension Windows::Live.
+
+0.01  Mon Mar 23 22:10:00 2009
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n Windows::Live
+

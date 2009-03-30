@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Windows-Live.t
+lib/Windows/Live.pm
